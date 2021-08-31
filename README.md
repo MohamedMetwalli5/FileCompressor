@@ -1,3 +1,5 @@
+![Language](https://img.shields.io/badge/language-C++%20-pink.svg)
+![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 # File Compressor
 A C++ compression and decompression program based on Huffman Coding.
 
