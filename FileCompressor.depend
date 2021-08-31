@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1630375343 source:c:\users\mohamed\desktop\filecompressor\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<unordered_map>
+	<queue>
+	<string>
+
