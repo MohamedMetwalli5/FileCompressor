@@ -1,7 +1,7 @@
 ![Language](https://img.shields.io/badge/language-C++%20-green.svg)
 ![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 # File Compressor
-A C++ compression and decompression program based on the Huffman Algorithm for loseless data compression.
+A C++ compression and decompression program based on the Huffman Algorithm for lossless data compression.
 It can achieve savings between 20% and 90%.
 ## Idea
 This project is to design a compression and decompression program based on the Huffman Algorithm.
