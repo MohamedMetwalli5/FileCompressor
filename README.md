@@ -3,7 +3,7 @@
 # File Compressor
 A C++ compression and decompression program based on the Huffman Algorithm for loseless data compression.
 It can achieve savings between 20% and 90%.
-## Introduction
+## Idea
 This project is to design a compression and decompression program based on the Huffman Algorithm.
 The idea of the Huffman Algorithm is to minimize the weighted expected length of the bits by means of assigning shorter bits to frequently-used characters and longer bits to seldom-used characters.
 
