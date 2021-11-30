@@ -11,3 +11,5 @@ The idea of the Huffman Algorithm is to minimize the weighted expected length of
 The programs can compress and decompress text files consisting of 128 ASCII characters.
 
 <iframe src="https://giphy.com/embed/J6ClECQjSlt71GGbUu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/algorithms-J6ClECQjSlt71GGbUu">via GIPHY</a></p>
+
+![Alt Text](https://media.giphy.com/media/J6ClECQjSlt71GGbUu/giphy.gif)
